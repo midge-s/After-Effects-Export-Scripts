@@ -1,0 +1,12 @@
+How to use:
+-----------
+
+Select the 2D animated layers in you want to export in your After Effects composition.
+
+Go to File > Scripts > Run Script File...
+
+Select the .jsx script
+
+XML files will now be generated in the folder where the script was run from.
+
+(!) Make sure to have unique layer names as the XML files will have the same name as the After Effects layer.
